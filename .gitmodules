@@ -1,0 +1,3 @@
+[submodule "vendor/mqtt-c"]
+	path = vendor/mqtt-c
+	url = https://github.com/LiamBindle/MQTT-C
